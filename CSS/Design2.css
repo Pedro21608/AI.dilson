@@ -4,6 +4,7 @@ body{
     background-position: center;
     background-attachment: fixed;
 }
+
 @font-face {
     font-family: gow;
     src: url(Fontes/Orbitron-Medium.ttf);
